@@ -17,7 +17,7 @@ conda activate medical
 
 pip install -r requirements.txt
 
-# Create a .env file in the root directory and add your GOOGLE_API_KEY credentials as follows:
+# Create a .env file in the root directory and add your OPENAI_API_KEY credentials as follows:
 
 OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
