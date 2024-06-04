@@ -29,5 +29,5 @@ open up localhost:
 
 # Techstack Used:
 - Python
-- Google API
+- Openai API
 - Streamlit
